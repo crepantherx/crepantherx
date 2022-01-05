@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @crepantherx
-- 👀 I’m interested in Data story telling
-- 🌱 I’m currently learning life of data
-- 💞️ I’m looking to collaborate on any data related use case analytics
+- 👀 I’m love telling stories behind the Data
 - 📫 How to reach me, write a mail at crepantherx@gmail.com
 
 <!---
