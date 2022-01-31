@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudhir Singh
-- 👀 I’m love telling stories behind the Data
+- 👀 I love telling stories behind the Data
 - 📫 How to reach me, write a mail at crepantherx@gmail.com
 
 <!---
