@@ -1,6 +1,6 @@
 - Hi, I’m Sudhir Singh
 - Microsoft Certified Azure Data Engineer & Microsoft Certified Azure Data Scientist
-- I love telling stories behind the Data
+- I love structuring, cleaning, optimizing data for telling data driven stories
 - 
 - How to reach me, write a mail at crepantherx@gmail.com
 
