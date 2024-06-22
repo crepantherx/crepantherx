@@ -1,5 +1,7 @@
-- Hi, I’m Sudhir Singh
-- https://www.linkedin.com/in/crepantherx/
+Hi, happy to see you here
+
+- LinkedIn: https://www.linkedin.com/in/crepantherx/
+- Website: https://de.crepantherx.in/
 
 <!---
 crepantherx/crepantherx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
