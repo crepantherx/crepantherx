@@ -1,8 +1,5 @@
 - Hi, I’m Sudhir Singh
-- Microsoft Certified Azure Data Engineer & Microsoft Certified Azure Data Scientist
-- I love structuring, cleaning, optimizing data for telling data driven stories
-
-- How to reach me, write a mail at crepantherx@gmail.com
+- https://www.linkedin.com/in/crepantherx/
 
 <!---
 crepantherx/crepantherx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
